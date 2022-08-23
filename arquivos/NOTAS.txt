@@ -1,0 +1,96 @@
+
+-----------------------------------------------------------------------------------------------------
+
+[TBL_CHAMADOS_DESPESA_ANEXO_FOTO]  TABELA PARA ANEXAR A FOTO
+==============================================
+----------------------------------------------..
+[TESTANDO]
+[OK]
+[FAZENDO]
+[DEPOIS]
+-----------------------------------------------..... 
+
+[FAZENDO] COLOCAR O PESQUISAR FUNCIONARIO POR CPF E NOME
+
+
+
+
+[DEPOIS] Hora inicio e final não funciona muito bem. talvez seja necessario tirar da tabela
+
+[DEPOIS] HISTORICO DO CLIENTE 
+https://localhost:44335/ChamadosContrato/DetalheChamado/Yb2AxTNHRkU=
+
+341164 - falta hj  
+https://blog.printloja.com.br/spooler-de-impressao/blaozr
+
+--------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
+
+INPUT LOGRADOURO PARA TER AUTOCOMPLETAR - AUTOCOMPLETE - http://www.macoratti.net/20/03/blz_autocompl1.htm; 
+ 
+ 
+341820 341830   willian ortiz
+------------------------------ 
+11 40532155 CTI
+
+&nbsp;
+metropole@sompo.com.br
+123
+KLAdmin
+Ipex@2021
+523578357 
+https://ipexlog.ctisec.com.br/login
+
+Usuário: ipex
+Senha: pi4xqe6zgS
+
+Convert.ToInt32(DecryptString(idPedidoCrypt));
+EncryptString(item.IdGestaoCorrespondenciaPreco.ToString()),
+
+  <a href="data:image/jpeg;base64, @fotoD" target="_blank" class="link-success">Download </a>
+-------------------------------------
+VER
+https://www.youtube.com/watch?v=TLRW_xTnQwY&t=131s
+384.108.608-05 1208           
+.NET
+PRECISO SABER NA PONTO DA LINGUA.
+1 - O QUE SAO LINGUAGENS TIPADAS?
+1 - O QUE SAO LINGUAGENS COMPILADA;
+1 - LINGUAGENS GERENCIADAS 
+1 - O QUE É O GERENCIADOR RUNTIME
+2 - O QUE É LINGUAGEM UL(LINGUAGEM INTERMEDIARIA)
+3 - Como o .net roda e funciona.
+4 - built-in types(tipos primitivos)
+5 - o que são namespace(divisao logica )
+6 - o que é .net
+6 - o que é .net core
+6 - o que é .net framwwork 
+6 - o que é .framework
+7 - HEROKU
+8 -DOCKER 
+9- ORIENTAÇÃO A OBJETO
+10 - CONSTRUIR API
+11 - O QUE SAO CLASSES E OBJETOS E RELAÇÃO ENTRE ELES
+12 O QUE SAO INTERFACES E CLASSES OBSTRATAS E QUAL A DIFERENÇA
+13 - MODIFICADORES DE ACESSO. 
+14 O QUE  É VIRTUAL
+15 O QUE  É SEALED CLASS
+16 - ENTENDER BEM ORIENTAÇÃO A OBJETO
+17 - ENTENDER BEM MVC ARQUITETURA.
+18 - SOLID
+19 - DESIGN PATTERNS O QUE SAO E QUAIS PROBLEMAS ELES RESOLVEM
+20 - INJEÇÃO DE DEPENDENCIA AddSingleton AddTransient, AddScoped  
+21- API REST
+22 - 
+
+
+vitor machado contrato com falto sgi 
+
+
+
+
+
+
+
+
+

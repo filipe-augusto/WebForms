@@ -17,6 +17,8 @@ namespace WebForms
 
         public string  Telefone { get; set; }
 
+        public string Foto { get; set; }
+
         public static List<Usuario> List { get; set; } = new List<Usuario>();
 
 

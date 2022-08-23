@@ -35,10 +35,15 @@ namespace WebForms
 
         protected void btnSalvar_Click(object sender, EventArgs e)
         {
+            string caminhoArquivo = AppDomain.CurrentDomain.BaseDirectory + System.Configuration.ConfigurationManager
+                .AppSettings["caminhoArquivo"] +@"/" +fileFoto.FileName;
+            fileFoto.SaveAs(caminhoArquivo);
 
             var usuario = new Usuario();
             usuario.Nome = txtNome.Text;
             usuario.Telefone = txtTelefone.Text;
+            usuario.Foto = System.Configuration.ConfigurationManager
+                .AppSettings["caminhoArquivo"].Replace(@"\", "/") +@"/" + fileFoto.FileName;
 
             txtTelefone.Text = "";
             txtNome.Text = "";
