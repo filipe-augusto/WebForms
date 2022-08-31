@@ -14,7 +14,7 @@ namespace WebForms
         public List<Contato> listaContatos = new List<Contato>();
         protected void Page_Load(object sender, EventArgs e)
         {
-
+            ctrLogin.Mensagem = "Este é a pagina default";
             listaContatos.Add(new Contato() { Nome = "Filipe", ID = 1 });
             listaContatos.Add(new Contato() { Nome = "Cassila", ID = 2 });
             listaContatos.Add(new Contato() { Nome = "Nice", ID = 3 });

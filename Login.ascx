@@ -1,4 +1,5 @@
-﻿<%@ Control Language="C#" AutoEventWireup="true" CodeFile="Login.ascx.cs" Inhertis="Login" %>
+﻿<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="Login.ascx.cs" Inherits="WebForms.Login" %>
+
 <div class="login">
     <asp:Label ID="lblLogin" runat="server" Text="Login"></asp:Label>
     <asp:TextBox ID="txtLogin" runat="server"></asp:TextBox>
@@ -10,11 +11,9 @@
 
 </div>
 <div>
-<asp:Button ID="btnLogin" runat="server" Text="Login" />
+<asp:Button ID="btnLogin" runat="server" Text="Login" OnClick="btnLogin_Click" />
 
 </div>
-<p>
-    &nbsp;</p>
-<p>
+
     <asp:Label ID="lblMensagem" runat="server" Text="Mensagem"></asp:Label>
-</p>
+

@@ -11,6 +11,7 @@ namespace WebForms
     {
         protected void Page_Load(object sender, EventArgs e)
         {
+            ctrLogin.Mensagem = "Este é o form principal";
             pnlCampoCadastro.Visible = false;
             pnlResultado.Visible = true;
             mostrarLista();
@@ -37,6 +38,7 @@ namespace WebForms
         {
             string caminhoArquivo = AppDomain.CurrentDomain.BaseDirectory + System.Configuration.ConfigurationManager
                 .AppSettings["caminhoArquivo"] +@"/" +fileFoto.FileName;
+            if (caminhoArquivo != null)
             fileFoto.SaveAs(caminhoArquivo);
 
             var usuario = new Usuario();

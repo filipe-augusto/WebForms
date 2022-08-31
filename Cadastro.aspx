@@ -18,8 +18,8 @@
         <div>
 
             <br/><br/>
-            <uc1:Login ID="Login1" runat="server" />
-            <br/><br/><br/><br/><br/><br/>
+            <uc1:Login ID="ctrLogin" runat="server" />
+          
             <asp:Panel ID="pnlCampoCadastro" runat="server">
                 <asp:Label ID="Label1" runat="server" Text="Nome"></asp:Label>
                 <asp:TextBox ID="txtNome" runat="server"></asp:TextBox>
